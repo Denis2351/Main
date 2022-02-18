@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+h1 {
+    position: absolute;
+    font-family: 'Comfortaa';
+    margin-left: 600px;
+    margin-top: 170px;
+    color: green;
+}
+
+img {
+    float: right;
+    height: 900px;
+}
+
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+}
